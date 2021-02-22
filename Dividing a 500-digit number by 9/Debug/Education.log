@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\samet\source\repos\Education\Education\main.c(11,8): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\samet\source\repos\Education\Education\main.c(15,9): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Education.vcxproj -> C:\Users\samet\source\repos\Education\Debug\Education.exe
